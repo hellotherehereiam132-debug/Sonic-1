@@ -4,3 +4,6 @@ This is an updated AS disassembly, which was built off the older one. This is ma
 2. Some macros have been added to make editing easier
 3. Variables are now labeled, this makes RAM shifting easier
 4. Unneeded ASM files have been moved to s1.asm
+
+
+## All ASM is m68k Assembly!
